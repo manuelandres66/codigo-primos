@@ -1,0 +1,2 @@
+# codigo-primos
+Código del articulo REPETICIÓN DE ÁNGULOS FORMADOS POR PUNTOS DE PRIMOS CON SU ANTECESOR.
