@@ -1,2 +1,3 @@
-# codigo-primos
+# REPETICIÓN DE ÁNGULOS FORMADOS POR PUNTOS DE PRIMOS CON SU ANTECESOR.
 Código del articulo REPETICIÓN DE ÁNGULOS FORMADOS POR PUNTOS DE PRIMOS CON SU ANTECESOR.
+Codigo para encontrar angulos de los 1000 primeros numeros primos.
